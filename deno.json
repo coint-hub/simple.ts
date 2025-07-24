@@ -1,4 +1,7 @@
 {
+  "name": "@coint/simple",
+  "version": "0.1.0",
+  "license": "MIT",
   "tasks": {
     "verify": "deno lint && deno test && deno test --doc"
   },
