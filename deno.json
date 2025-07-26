@@ -8,6 +8,9 @@
   "imports": {
     "@std/assert": "jsr:@std/assert@1"
   },
+  "compilerOptions": {
+    "noUncheckedIndexedAccess": true
+  },
   "exports": {
     ".": "./mod.ts"
   }
