@@ -1,0 +1,4 @@
+{
+  "packageFiles": [{ "filename": "deno.json", "type": "json" }],
+  "bumpFiles": [{ "filename": "deno.json", "type": "json" }]
+}
