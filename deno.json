@@ -1,6 +1,6 @@
 {
   "name": "@coint/simple",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "tasks": {
     "release": "deno run --allow-env --allow-run --allow-read --allow-write npm:commit-and-tag-version",
